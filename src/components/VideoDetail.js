@@ -32,7 +32,7 @@ const VideoDetail=({video})=>{
             type="text" 
             placeholder="Your comments are here..."/>
         </form>
-            <div className="">{}</div>
+            <div className="">Comments</div>
         </div>
     )
 }
